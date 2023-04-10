@@ -30,6 +30,11 @@
     width: 15px;
     border-radius: 50%;
     display: inline-block;
+    background-color: red;
+ }
+
+ status.isOnline{
+   background-color: green;
  }
 
  .avatar {
